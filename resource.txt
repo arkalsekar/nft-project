@@ -98,3 +98,20 @@ response = requests.post(
     headers=headers,
     data=data,
 ).json()
+
+
+NFT mai website mai traffic itna nahi hai abhi it is around (10k to 100k)
+https://upcomingnft.net/
+https://nftcalendar.io
+https://www.nftmintradar.com/
+https://moon.ly/  (it has its own NFT and has made more then 1 million on it)
+https://nftdroops.com/
+https://nftdroppers.io/
+https://atlas3.io/     (NFT website for Whitelist and has 1 million+ traffic)
+
+And Airdrop has highest traffic above 1 million
+https://airdrops.io/ (traffic 1.5 million+)
+https://airdropalert.com/ 
+https://freeairdrop.io/
+
+"NFT Whitelist" keyword pai koi kam nahi kera hai jo big searching term honga kuch month mai
